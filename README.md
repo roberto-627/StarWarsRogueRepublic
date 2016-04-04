@@ -24,3 +24,23 @@ Link: https://github.com/roberto-627/StarWarsRogueRepublic
 
 ##Instrucciones
 <img src="https://github.com/Lictro/Imagenes/blob/master/Controls.png" width="900">
+
+#Atribuciones
+
+----------
+##Software:
+- Visual Studio
+- Sony Vegas
+- Adobe Photoshop
+- Adobe Premiere
+- Adobe Bridge
+- Paint.net
+- Tiled
+- Adobe Audacity
+- Hexels
+- Code Blocks
+- MarkdownPad
+
+## Imagenes ##
+- http://makepixelart.com/artists/anonymous/explosion-sprite-8-bit
+- http://www.deviantart.com/tag/hostilius
