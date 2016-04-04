@@ -9,7 +9,7 @@ Los eventos de Star Wars Rogue Republic toman lugar tan solo horas después de q
 
 ----------
 
-Link: https://www.youtube.com/watch?v=77CMcPbLeKs 
+Link: https://www.youtube.com/watch?v=nWgU7xr8zTQ
 
 #Descargar
 
