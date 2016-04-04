@@ -25,6 +25,12 @@ Link: https://github.com/roberto-627/StarWarsRogueRepublic
 ##Instrucciones
 <img src="https://github.com/Lictro/Imagenes/blob/master/Controls.png" width="900">
 
+<img src="https://github.com/Lictro/Imagenes/blob/master/Captura.PNG" width="900">
+
+<img src="https://github.com/Lictro/Imagenes/blob/master/1.PNG" width="900">
+
+<img src="https://github.com/Lictro/Imagenes/blob/master/2.PNG" width="900">
+
 #Atribuciones
 
 ----------
