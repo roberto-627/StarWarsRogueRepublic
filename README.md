@@ -50,3 +50,6 @@ Link: https://github.com/roberto-627/StarWarsRogueRepublic
 ## Imagenes ##
 - http://makepixelart.com/artists/anonymous/explosion-sprite-8-bit
 - http://www.deviantart.com/tag/hostilius
+- 
+Licencia:
+GPL
